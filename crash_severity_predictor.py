@@ -1,1 +1,0 @@
-# Python script for Crash Severity Predictor project
